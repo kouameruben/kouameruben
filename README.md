@@ -41,7 +41,7 @@ Modèle ML de scoring crédit adapté au contexte Afrique de l'Ouest (mobile mon
 **Résultat :** AUC 0.86 · Décision en < 5 secondes · Scorecard avec facteurs explicatifs.
 `Python` `XGBoost` `scikit-learn` `Streamlit`
 
-### 📡 [Telecom Churn Predictor](https://github.com/kouameruben/telecom-churn-predictor) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://telecom-churn-ci.streamlit.app)
+### 📡 [Telecom Churn Predictor](https://github.com/kouameruben/telecom-churn-predictor) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://telecom-churn-predictor-t7oxzx6jzgousisd4dtdzv.streamlit.app/)
 Prédiction de résiliation et recommandations de rétention ciblées pour un opérateur broadband.
 **Résultat :** Identifier 20% des clients pour sauver 80% du churn · ROI estimé +300M FCFA/an.
 `Python` `scikit-learn` `Streamlit` `Plotly`
