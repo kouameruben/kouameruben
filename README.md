@@ -36,7 +36,7 @@ Scoring automatisé des 45+ actions BRVM avec analyse technique, fondamentale et
 **Résultat :** Signaux BUY/HOLD/SELL en temps réel · Backtesting · Simulateur dividendes.
 `Python` `Plotly` `Streamlit`
 
-### 🏦 [Credit Scoring UEMOA](https://github.com/kouameruben/credit-scoring-uemoa) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://credit-scoring-uemoa.streamlit.app)
+### 🏦 [Credit Scoring UEMOA](https://github.com/kouameruben/credit-scoring-uemoa) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://credit-scoring-uemoa-encwxap4x7f6ks3hpkutkc.streamlit.app/)
 Modèle ML de scoring crédit adapté au contexte Afrique de l'Ouest (mobile money, revenus informels).
 **Résultat :** AUC 0.86 · Décision en < 5 secondes · Scorecard avec facteurs explicatifs.
 `Python` `XGBoost` `scikit-learn` `Streamlit`
