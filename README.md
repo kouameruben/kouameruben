@@ -26,7 +26,7 @@ I build **data pipelines, ML models, and dashboards** that help organizations ma
 
 ## 💼 What I've built
 
-### 💊 [Pharma Supply Chain Dashboard](https://github.com/kouameruben/pharma-supply-dashboard) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://pharma-supply-ci.streamlit.app)
+### 💊 [Pharma Supply Chain Dashboard](https://github.com/kouameruben/pharma-supply-dashboard) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://pharma-supply-dashboard-imhjcbwdvjarznbnvc4v9s.streamlit.app/)
 Pipeline end-to-end : ingestion → ML forecasting → alertes stockout → dashboard interactif.
 **Résultat :** Prévision des ruptures de médicaments 7 jours à l'avance · MAPE 12% · -22% coûts stockage estimés.
 `Python` `R (data.table)` `XGBoost` `Streamlit` `SQL`
