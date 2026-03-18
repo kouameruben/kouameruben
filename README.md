@@ -99,6 +99,7 @@ Le package Python manquant pour accéder aux données de la BRVM. `pip install p
 ## 🎓 Education
 
 🎓 **Master in Big Data** — Data engineering, ML, large-scale processing
+
 🎓 **Master in Econometrics** — Statistical modeling, time series, forecasting
 
 ---
