@@ -31,7 +31,7 @@ Pipeline end-to-end : ingestion → ML forecasting → alertes stockout → dash
 **Résultat :** Prévision des ruptures de médicaments 7 jours à l'avance · MAPE 12% · -22% coûts stockage estimés.
 `Python` `R (data.table)` `XGBoost` `Streamlit` `SQL`
 
-### 📈 [BRVM Analytics Dashboard](https://github.com/kouameruben/brvm-analytics-dashboard) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://brvm-analytics.streamlit.app)
+### 📈 [BRVM Analytics Dashboard](https://github.com/kouameruben/brvm-analytics-dashboard) &nbsp; [![Live](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B)](https://brvm-analytics-dashboard-eyyavh2bjf87vnepwhqfas.streamlit.app/)
 Scoring automatisé des 45+ actions BRVM avec analyse technique, fondamentale et simulation de portefeuille.
 **Résultat :** Signaux BUY/HOLD/SELL en temps réel · Backtesting · Simulateur dividendes.
 `Python` `Plotly` `Streamlit`
